@@ -1,0 +1,248 @@
+/* Base styles */
+.style-0 {
+    cursor: auto;
+    -webkit-font-smoothing: antialiased;
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+    font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    line-height: 1.5;
+    margin: 0;
+}
+
+.style-1 {
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+}
+
+.style-2 {
+    padding: 0;
+    max-width: 1024px;
+    margin: 0 auto;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+}
+
+.style-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+}
+
+.style-4 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+}
+
+.style-5 {
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+}
+
+.style-6 {
+    border-color: #e5e5e5;
+    color: #000000;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.style-7 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+}
+
+.style-8 {
+    display: block;
+    color: #525252;
+    font-weight: 500;
+    height: 24px;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+    font-size: 18px;
+}
+
+.style-9 {
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+    font-size: 16px;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+}
+
+.style-10 {
+    display: block;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+}
+
+.style-11 {
+    padding: 16px;
+    color: #171717;
+    font-weight: 500;
+    border-color: #e5e5e5;
+    text-decoration: none;
+    box-sizing: border-box;
+    border: none;
+    transition: color 0.3s ease;
+    font-size: 18px;
+}
+
+.style-11:hover {
+    color: #1a73e8;
+}
+
+.style-12 {
+    padding: 16px;
+    color: #171717;
+    font-weight: 500;
+    border-color: #e5e5e5;
+    text-decoration: none;
+    box-sizing: border-box;
+    border: none;
+    transition: color 0.3s ease;
+    font-size: 18px;
+}
+
+.style-12:hover {
+    color: #1a73e8;
+}
+
+.style-30 {
+    margin-bottom: auto;
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+    border: none;
+}
+
+.style-31 {
+    border-color: #e5e5e5;
+    box-sizing: border-box;
+}
+
+.style-35 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 30%;
+}
+
+.style-36 {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 192px;
+    height: 192px;
+}
+
+.style-39 {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.style-42 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 16px;
+    color: #171717;
+    text-align: center;
+}
+
+.style-43 {
+    font-size: 16px;
+    color: #757575;
+    margin-top: 8px;
+}
+
+.style-45 {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 16px;
+}
+
+.style-46, .style-51, .style-55 {
+    color: #757575;
+    font-size: 0;
+    transition: color 0.3s ease;
+}
+
+.style-46:hover, .style-51:hover, .style-55:hover {
+    color: #1a73e8;
+}
+
+.style-48, .style-53, .style-57 {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+}
+
+.style-50 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.style-60 {
+    width: 65%;
+    padding-left: 32px;
+}
+
+.style-61 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #171717;
+}
+
+.style-62 {
+    margin-top: 24px;
+    padding-left: 20px;
+}
+
+.style-63 {
+    margin-bottom: 8px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333333;
+    list-style-type: disc;
+}
+
+
+
+/* New styles for About Me */
+.style-70 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #171717;
+    margin-top: 40px;
+    text-align: left;
+}
+
+.style-71 {
+    border: 0;
+    height: 1px;
+    background: #e5e5e5;
+    margin: 20px 0;
+}
